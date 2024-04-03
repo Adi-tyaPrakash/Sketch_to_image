@@ -1,0 +1,2 @@
+This project utilizes Generative Adversarial Networks (GANs) to convert sketches into realistic images. GANs consist of a generator and a discriminator trained simultaneously. The generator learns to produce realistic images from random noise, while the discriminator learns to differentiate between real and generated images.
+Dataset link : https://www.kaggle.com/code/aniruddhakalkar/sketches-to-images/input?select=photos
